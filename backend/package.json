@@ -1,0 +1,20 @@
+{
+  "name": "healthchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dns2": "^2.1.0",
+    "express": "^5.1.0",
+    "ssl-checker": "^2.0.10"
+  }
+}
